@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Cypher":{
+         "id":"Cypher",
+         "key":"6",
+         "name":"Cypher",
+         "rol":"Centinela",
+         "lore":"Cypher es un experto en información de Marruecos que se especializa en redes de vigilancia y es capaz de seguirle la pista al enemigo constantemente. No hay secreto a salvo ni maniobra que pase desapercibida. Cypher siempre está alerta.",
+         "spells":[
+            {
+               "id":"CypherE",
+               "name":"Cámara espía",
+               "description":"<strong>EQUIPA</strong> una cámara espía. <strong>DISPARA</strong> para colocarla en la ubicación objetivo. <strong>VUELVE A USAR</strong> esta habilidad para controlar la visión de la cámara. Al controlarla, <strong>DISPARA</strong> para lanzar un dardo marcador que revela la ubicación del jugador alcanzado."
+            },
+            {
+               "id":"CypherC",
+               "name":"Cable trampa",
+               "description":"<strong>EQUIPA</strong> un cable trampa. <strong>DISPARA</strong> para colocar un cable trampa destructible pero oculto en la ubicación objetivo. Creará una línea que se extiende entre la ubicación en la que se ha colocado y la pared opuesta. Los jugadores enemigos que atraviesen un cable trampa quedarán anclados, revelados y aturdidos tras un breve lapso sino logran destruir el dispositivo a tiempo. El cable trampa se puede recoger para <strong>VOLVER A COLOCARLO</strong>. "
+            },
+            {
+               "id":"CypherQ",
+               "name":"Prisión cibernética",
+               "description":"Lanza de <strong>INMEDIATO</strong> la prisión cibernética frente a Cypher. <strong>ACTÍVALA</strong> para crear una zona que bloquea la visión y emite un sonido cuando los enemigos la atraviesan. "
+            },
+            {
+               "id":"CypherX",
+               "name":"Hurto neuronal",
+               "description":"Úsala <strong>INSTANTÁNEAMENTE</strong> sobre un enemigo muerto en tu mira para revelar la posición de todos los jugadores enemigos vivos."
+            }
+         ]         
+      }
+   }
+}

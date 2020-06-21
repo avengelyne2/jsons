@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Sage":{
+         "id":"Sage",
+         "key":"5",
+         "name":"Sage",
+         "rol":"Centinela",
+         "lore":"Originaria de China, Sage destaca a la hora de crear espacios seguros para su equipo allá donde va. Sus capacidades especiales para revivir a compañeros caídos en batalla y para mantener a raya los asaltos enemigos la convierten en la calma en mitad de la tormenta para su equipo.",
+         "spells":[
+            {
+               "id":"SageE",
+               "name":"Orbe de sanación",
+               "description":"<strong>EQUIPA</strong> un orbe de sanación. <strong>DISPARA</strong> con la mira sobre un aliado herido para curarla durante un breve periodo. <strong>ALTERNA EL MODO DE DISPARO</strong> cuando Sage esté herida para que se cure a sí misma durante un breve periodo."
+            },
+            {
+               "id":"SageC",
+               "name":"Orbe barrera",
+               "description":"<strong>EQUIPA</strong> un orbe de barrera. <strong>DISPARA</strong> para colocar una pared sólida. Alterna el <strong>MODO DE DISPARO</strong> para rotarla antes de crearla. "
+            },
+            {
+               "id":"SageQ",
+               "name":"Orbe de ralentización",
+               "description":"<strong>EQUIPA</strong> un orbe de ralentización. <strong>DISPARA</strong> para lanzar hacia delante un orbe de ralentización que explota al aterrizar, lo que genera un campo persistente que ralentiza a los jugadores que se encuentren en su interior. "
+            },
+            {
+               "id":"SageX",
+               "name":"Resurrección",
+               "description":"<strong>EQUIPA</strong> una habilidad de resurrección. <strong>DISPARA</strong> con la mira sobre un aliado muerto para empezar a resucitarlo. Tras un breve periodo de canalización, el aliado resucitará con toda la vida."
+            }
+         ]         
+      }
+   }
+}

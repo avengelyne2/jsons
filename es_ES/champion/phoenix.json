@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Phoenix":{
+         "id":"Phoenix",
+         "key":"4",
+         "name":"Phoenix",
+         "rol":"Duelista",
+         "lore":"Phoenix proviene del Reino Unido y sus poderes estelares salen a relucir con su estilo de combate, que prende fuego al campo de batalla de forma deslumbrante. Con apoyo o en solitario, él es quien decide cuándo y cómo se lucha.",
+         "spells":[
+            {
+               "id":"PhoenixE",
+               "name":"Combustión",
+               "description":"<strong>EQUIPA</strong> una bola de fuego. <strong>DISPARA</strong> para lanzar una bola de fuego que explota transcurrido un tiempo determinado o al impactar contra el suelo, lo que crea una zona de fuego persistente que inflige daño a los enemigos."
+            },
+            {
+               "id":"PhoenixC",
+               "name":"Llamarada",
+               "description":"<strong>EQUIPA</strong> una pared de llamas. <strong>DISPARA</strong> para crear una línea de llamas que avanza hacia delante, lo que forma una pared de fuego que bloquea al visión e inflige daño a los jugadores enemigos que la atraviesan. <strong>MANTÉN PULSADO DISPARAR</strong> para curvar la pared en la dirección de la mira. "
+            },
+            {
+               "id":"PhoenixQ",
+               "name":"Bola curva",
+               "description":"<strong>EQUIPA</strong> un orbe que realiza una curva y explota poco después. <strong>DISPARA</strong> para lanzar el orbe hacia la izquierda, lo que hará detonar y cegar a cualquier jugador que lo vea. <strong>ALTERNA EL DISPARO</strong> para lanzar el orbe hacia la derecha. "
+            },
+            {
+               "id":"PhoenixX",
+               "name":"Cenizas",
+               "description":"Coloca <strong>INSTANTÁNEAMENTE</strong> un marcador en la ubicación de Phoenix. mientras esta habilidad esté activa, morir o dejar que se agote el temporizador hará que se termine la habilidad y devolverá a Phoenix a esta ubicación con toda la vida."
+            }
+         ]         
+      }
+   }
+}
