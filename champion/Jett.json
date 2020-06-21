@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Jett":{
+         "id":"Jett",
+         "key":"1",
+         "name":"Jett",
+         "rol":"Duelista",
+         "lore":"Jett viene de Corea del Sur, y su estilo de lucha ágil y evasivo le permite asumir grandes riesgos. En las refriegas, recorre el terrno en círculos y hace trizas a los enemigos con una rapidez espectacular. ",
+         "spells":[
+            {
+               "id":"JettE",
+               "name":"Viento de cola",
+               "description":"Propulsa a Jett <strong>INSTANTÁNEAMENTE</strong> en la dirección en la que se esté moviendo. Si Jett está quieta, se propulsará hacia delante"
+            },
+            {
+               "id":"JettC",
+               "name":"Borrasca",
+               "description":"Lanza un proyectil <strong>INSTANTÁNEAMENTE</strong> que se expande en una nube que bloquea la visión brevemente al impactar contra una superficie. <strong> MANTÉN PULSADO</strong> el botón de la habilidad para que el humo se curve en la dirección de la mira. "
+            },
+            {
+               "id":"JettQ",
+               "name":"Vendaval",
+               "description":"Propulsa <strong>INSTANTÁNEAMENTE</strong> a Jett a mucha altura hacia arriba. "
+            },
+            {
+               "id":"JettX",
+               "name":"Tormenta de cuchillas",
+               "description":"Equipa un conjunto de cuchillos volantes de alta precisión que se recargan cuando acaban con un oponente. <strong>DISPARA</strong> para lanzar un único cuchillo a tu objetivo. <strong>ALTERNA EL MODO DE DISPARO</strong> para lanzar todas las dagas restantes a tu objetivo."
+            }
+         ]         
+      }
+   }
+}
