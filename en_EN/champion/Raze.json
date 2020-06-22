@@ -5,28 +5,28 @@
          "id":"Raze",
          "key":"2",
          "name":"Raze",
-         "rol":"Duelista",
-         "lore":"Raze llega desde Brasil con ganas de hacer que todo salte por los aires. Con su estilo de juego basado en la fuerza bruta, destaca a la hora de barrer a grupos de enemigos atrincherados y de despejar áreas estrechas con explosión y sin compasión.",
+         "rol":"Duelist",
+         "lore":"Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entreched enemies and clearing tight spaces with a generous dose of 'boom'.",
          "spells":[
             {
                "id":"RazeE",
-               "name":"Balas de pintura",
-               "description":"<strong>EQUIPA</strong> una granada de racimo. <strong>DISPARA</strong> para lanzar la granada, lo que causa daño y crea submuniciones que infligen daño a cualquier que esté dentro del rango."
+               "name":"Paint Shells",
+               "description":"<strong>EQUIP</strong> a cluster grenade. <strong>FIRE</strong> to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range."
             },
             {
                "id":"RazeC",
-               "name":"Bot explosivo",
-               "description":"<strong>EQUIPA</strong> un bot explosivo. <strong>DISPARA</strong> para desplegar el bot y hacer que se desplace en línea recta por el terreno, rebotando por las paredes. El bot explosivo se fijará a los enemigos que encuentre en un cono frontal y los perseguirá. Si los alcanza, explotará e infligirá una gran cantidad de daño. "
+               "name":"Boom Bot",
+               "description":"<strong>EQUIP</strong> a Boom Bot. <strong>FIRE</strong> will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them."
             },
             {
                "id":"RazeQ",
-               "name":"Fardo explosivo",
-               "description":"Lanza <strong>AL INSTANTE</strong> un fardo explosivo que se adhiere a las superficies. <strong>VUELVE A USAR</strong> la habilidad después de que el fardo se adhiera para detonarlo y que dañe y desplace a todo aquello que alcance. "
+               "name":"Blast Pack",
+               "description":"<strong>INSTANTLY</strong> throw a Blast Pack that will stick to surfaces. <strong>RE-USE</strong> the ability after deploying to detonate, damaging and moving anything hit."
             },
             {
                "id":"RazeX",
-               "name":"Cierratelones",
-               "description":"Equipa un lanzacohetes. <strong>DISPARA</strong> para lanzar un cohete que inflige un daño en área masivo al entrar en contacto con cualquier cosa."
+               "name":"Showstopper",
+               "description":"<strong>EQUIP</strong> a rocket launcher. <strong>FIRE</strong> shoots a rocket that does massive area damage on contact with anything."
             }
          ]         
       }
