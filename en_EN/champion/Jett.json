@@ -5,28 +5,28 @@
          "id":"Jett",
          "key":"1",
          "name":"Jett",
-         "rol":"Duelista",
-         "lore":"Jett viene de Corea del Sur, y su estilo de lucha ágil y evasivo le permite asumir grandes riesgos. En las refriegas, recorre el terrno en círculos y hace trizas a los enemigos con una rapidez espectacular. ",
+         "rol":"Duelist",
+         "lore":"Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies up before they even know what hit them. ",
          "spells":[
             {
                "id":"JettE",
-               "name":"Viento de cola",
-               "description":"Propulsa a Jett <strong>INSTANTÁNEAMENTE</strong> en la dirección en la que se esté moviendo. Si Jett está quieta, se propulsará hacia delante"
+               "name":"Tailwind",
+               "description":"<strong>INSTANTLY</strong> propel Jett in the direction she is moving. If Jett is standing still, she will propel forward."
             },
             {
                "id":"JettC",
-               "name":"Borrasca",
-               "description":"Lanza un proyectil <strong>INSTANTÁNEAMENTE</strong> que se expande en una nube que bloquea la visión brevemente al impactar contra una superficie. <strong> MANTÉN PULSADO</strong> el botón de la habilidad para que el humo se curve en la dirección de la mira. "
+               "name":"Cloudburst",
+               "description":"<strong>INSTANTLY</strong> throw a projectile that expands into a brief vision-blocking cloud on impact with a surface. <strong>HOLD</strong> the ability key to curve the smoke in the direction of your crosshair."
             },
             {
                "id":"JettQ",
-               "name":"Vendaval",
-               "description":"Propulsa <strong>INSTANTÁNEAMENTE</strong> a Jett a mucha altura hacia arriba. "
+               "name":"Updraft",
+               "description":"<strong>INSTANTLY</strong> propel Jett high into the air."
             },
             {
                "id":"JettX",
-               "name":"Tormenta de cuchillas",
-               "description":"Equipa un conjunto de cuchillos volantes de alta precisión que se recargan cuando acaban con un oponente. <strong>DISPARA</strong> para lanzar un único cuchillo a tu objetivo. <strong>ALTERNA EL MODO DE DISPARO</strong> para lanzar todas las dagas restantes a tu objetivo."
+               "name":"Blade Storm",
+               "description":"<strong>EQUIP</strong> a set of highly accurate throwing knives that recharge on killing an oponent<strong>FIRE</strong> to throw a single knife at your target. <strong>ALTERNATE FIRE</strong> to throw all remaining daggers at your target."
             }
          ]         
       }
