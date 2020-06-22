@@ -10,12 +10,12 @@
          "spells":[
             {
                "id":"SovaE",
-               "name":"Proyectil De Reconocimiento",
+               "name":"Proyectil de Reconocimiento",
                "description":"<strong>EQUIPA</strong> un proyectil de reconocimiento. <strong>DISPARA</strong> para enviar el proyectil hacia delante. Se activa cuando impacta y revela la posición de enemigos en la línea de visión del proyectil. Se puede destruir. <strong>MANTÉN</strong> el disparo para ampliar su alcance. <strong>ALTERNA EL DISPARO</strong> para añadir hasta dos rebotes a la flecha."
             },
             {
                "id":"SovaC",
-               "name":"Dron De Reconocimiento",
+               "name":"Dron de Reconocimiento",
                "description":"<strong>EQUIPA</strong> un dron de reconocimiento. <strong>DISPARA</strong> para desplegar el dron y controlar su movimiento. Cuando tengas control del dron, <strong>DISPARA</strong> para lanzar un dardo marcador que revelará la ubicación de cualquier jugador alcanzado. "
             },
             {
@@ -25,7 +25,7 @@
             },
             {
                "id":"SovaX",
-               "name":"Furia Del Cazador",
+               "name":"Furia del Cazador",
                "description":"<strong>EQUIPA</strong> un arco con tres proyectiles de energía de largo alcance que atraviesan paredes. <strong>DISPARA</strong> para lanzar un proyectil de energía en línea recta frente a Sova, que infligirá daño y revelerá la posición de los enemigos que se encuentren a su paso. Esta habilidad puede <strong>VOLVER A USAR</strong> hasta dos veces más mientras el temporizador de la habilidad esté activo."
             }
          ]         

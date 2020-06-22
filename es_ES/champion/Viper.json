@@ -15,7 +15,7 @@
             },
             {
                "id":"ViperC",
-               "name":"Veneno De Serpiente",
+               "name":"Veneno de Serpiente",
                "description":"<strong>EQUIPA</strong> un lanzador químico. <strong>DISPARA</strong> para lanzar un cartucho que se rompe al impactar contra el suelo, lo que genera una zona química persistente que inflige daño. "
             },
             {
@@ -25,7 +25,7 @@
             },
             {
                "id":"ViperX",
-               "name":"Pozo De La Víbora",
+               "name":"Pozo de la Víbora",
                "description":"<strong>EQUIPA</strong> un pulverizador químico. <strong>DISPARA</strong> para pulverizar una nube química en todas direcciones alrededor de Viper, lo que genera una gran nube que reduce el alcance de la visión y la vida máxima de los jugadores que se encuentren dentro de ella."
             }
          ]         

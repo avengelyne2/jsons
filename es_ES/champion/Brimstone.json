@@ -10,7 +10,7 @@
          "spells":[
             {
                "id":"BrimstoneE",
-               "name":"Cortina De Humo",
+               "name":"Cortina de Humo",
                "description":"<strong>EQUIPA</strong> un mapa táctico. <strong>DISPARA</strong> para fijar ubicaciones en las que aparecerán nubes de humo de Brimstone. <strong>ALTERNA EL MODO DE DISPARO</strong> para confirmar. Esto liberará nubes de humo de larga duración que bloquearán la visión en la zona seleccionada."
             },
             {
