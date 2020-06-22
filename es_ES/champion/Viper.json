@@ -10,22 +10,22 @@
          "spells":[
             {
                "id":"ViperE",
-               "name":"Pantalla tóxica",
+               "name":"Pantalla Tóxica",
                "description":"<strong>EQUIPA</strong> un lanzagranadas de gas. <strong>DISPARA</strong> para desplegar una larga hilera de granadas de gas. <strong>VUELVE A USAR</strong> la habilidad para crear un alto muro de gas tóxico a cambio de combustible. Se puede <strong>VOLVER A USAR</strong> más de una vez. "
             },
             {
                "id":"ViperC",
-               "name":"Veneno de serpiente",
+               "name":"Veneno De Serpiente",
                "description":"<strong>EQUIPA</strong> un lanzador químico. <strong>DISPARA</strong> para lanzar un cartucho que se rompe al impactar contra el suelo, lo que genera una zona química persistente que inflige daño. "
             },
             {
                "id":"ViperQ",
-               "name":"Nube venenosa",
+               "name":"Nube Venenosa",
                "description":"<strong>EQUIPA</strong> una granada de gas. <strong>DISPARA</strong> para lanzarla. Permanece toda la ronda. <strong>VUELVE A USAR</strong> la habilidad para generar una nube de gas tóxico a cambio de combustible. La granada se puede <strong>USAR</strong> más deuna vez y recogerse para <strong>RECOLOCARLA</strong> "
             },
             {
                "id":"ViperX",
-               "name":"Pozo de la víbora",
+               "name":"Pozo De La Víbora",
                "description":"<strong>EQUIPA</strong> un pulverizador químico. <strong>DISPARA</strong> para pulverizar una nube química en todas direcciones alrededor de Viper, lo que genera una gran nube que reduce el alcance de la visión y la vida máxima de los jugadores que se encuentren dentro de ella."
             }
          ]         

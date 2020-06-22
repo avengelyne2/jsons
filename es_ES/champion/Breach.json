@@ -20,12 +20,12 @@
             },
             {
                "id":"BreachQ",
-               "name":"Explosión cegadora",
+               "name":"Explosión Cegadora",
                "description":"<strong>EQUIPA</strong> una carga explosiva cegadora. <strong>DISPARA</strong> para lanzarla. la carga para liberar una rápida explosión que atraviesa la pared. Cuando detona, la carga ciega a todos los jugadores que la estén mirando. "
             },
             {
                "id":"BreachX",
-               "name":"Fragor imparable",
+               "name":"Fragor Imparable",
                "description":"<strong>EQUIPA</strong> una carga explosiva sísmica. <strong>DISPARA</strong> para liberar un seísmo que se extenderá por una gran zona en forma de cono. El seísmo aturde y lanza por los aires a todos los jugadores que estén en el interior de la zona."
             }
          ]         
