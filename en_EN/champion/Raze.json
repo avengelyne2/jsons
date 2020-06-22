@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Raze":{
+         "id":"Raze",
+         "key":"2",
+         "name":"Raze",
+         "rol":"Duelista",
+         "lore":"Raze llega desde Brasil con ganas de hacer que todo salte por los aires. Con su estilo de juego basado en la fuerza bruta, destaca a la hora de barrer a grupos de enemigos atrincherados y de despejar áreas estrechas con explosión y sin compasión.",
+         "spells":[
+            {
+               "id":"RazeE",
+               "name":"Balas de pintura",
+               "description":"<strong>EQUIPA</strong> una granada de racimo. <strong>DISPARA</strong> para lanzar la granada, lo que causa daño y crea submuniciones que infligen daño a cualquier que esté dentro del rango."
+            },
+            {
+               "id":"RazeC",
+               "name":"Bot explosivo",
+               "description":"<strong>EQUIPA</strong> un bot explosivo. <strong>DISPARA</strong> para desplegar el bot y hacer que se desplace en línea recta por el terreno, rebotando por las paredes. El bot explosivo se fijará a los enemigos que encuentre en un cono frontal y los perseguirá. Si los alcanza, explotará e infligirá una gran cantidad de daño. "
+            },
+            {
+               "id":"RazeQ",
+               "name":"Fardo explosivo",
+               "description":"Lanza <strong>AL INSTANTE</strong> un fardo explosivo que se adhiere a las superficies. <strong>VUELVE A USAR</strong> la habilidad después de que el fardo se adhiera para detonarlo y que dañe y desplace a todo aquello que alcance. "
+            },
+            {
+               "id":"RazeX",
+               "name":"Cierratelones",
+               "description":"Equipa un lanzacohetes. <strong>DISPARA</strong> para lanzar un cohete que inflige un daño en área masivo al entrar en contacto con cualquier cosa."
+            }
+         ]         
+      }
+   }
+}

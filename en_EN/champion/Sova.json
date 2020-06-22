@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Sova":{
+         "id":"Sova",
+         "key":"11",
+         "name":"Sova",
+         "rol":"Iniciador",
+         "lore":"Nacido en el eterno invierno de la tundra rusa, Sova destaca a la hora de localizar, perseguir y eliminar a los enemigos con una eficiencia y una precisión inclementes. Su arco personalizado junto con su sobrenatural capacidad de rastreamiento hacen que sea imposible escapar.",
+         "spells":[
+            {
+               "id":"SovaE",
+               "name":"Proyectil de reconocimiento",
+               "description":"<strong>EQUIPA</strong> un proyectil de reconocimiento. Se activa cuando impacte y revela la posición de enemigos en la línea de visión del proyectil. Se puede destruir. <strong>MANTÉN</strong> el disparo para ampliar su alcance. <strong>ALTERNA EL DISPARO</strong> para añadir hasta dos rebotes a la flecha."
+            },
+            {
+               "id":"SovaC",
+               "name":"Dron de reconocimiento",
+               "description":"<strong>EQUIPA</strong> un dron de reconocimiento. <strong>DISPARA</strong> para desplegar el dron y controlar su movimiento. Cuando tengas control del dron, <strong>DISPARA</strong> para lanzar un dardo marcador que revelará la ubicación de cualquier jugador alcanzado. "
+            },
+            {
+               "id":"SovaQ",
+               "name":"Flecha explosiva",
+               "description":"<strong>EQUIPA</strong> un arco con una flecha explosiva. <strong>DISPARA</strong> para lanzarla hacia delante. Explotará al impactar y dañará a los enemigos cercanos. <strong>MANTÉN PULSADO DISPARAR</strong> para ampliar el alcance. <strong>ALTERNA EL DISPARO</strong> para añadir hasta dos rebotes a la flecha. "
+            },
+            {
+               "id":"SovaX",
+               "name":"Furia del cazador",
+               "description":"<strong>EQUIPA</strong> un arco con tres proyectiles de energía de largo alcance que atraviesan paredes. <strong>DISPARA</strong> para lanzar un proyectil de energía en línea recta frente a Sova, que infligirá daño y revelerá la posición de los enemigos que se encuentren a su paso. Esta habilidad puede <strong>VOLVER A USAR</strong> hasta dos veces más mientras el temporizador de la habilidad esté activo."
+            }
+         ]         
+      }
+   }
+}
