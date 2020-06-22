@@ -5,28 +5,28 @@
          "id":"Sage",
          "key":"5",
          "name":"Sage",
-         "rol":"Centinela",
-         "lore":"Originaria de China, Sage destaca a la hora de crear espacios seguros para su equipo allá donde va. Sus capacidades especiales para revivir a compañeros caídos en batalla y para mantener a raya los asaltos enemigos la convierten en la calma en mitad de la tormenta para su equipo.",
+         "rol":"Sentinel",
+         "lore":"The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.",
          "spells":[
             {
                "id":"SageE",
-               "name":"Orbe de sanación",
-               "description":"<strong>EQUIPA</strong> un orbe de sanación. <strong>DISPARA</strong> con la mira sobre un aliado herido para curarla durante un breve periodo. <strong>ALTERNA EL MODO DE DISPARO</strong> cuando Sage esté herida para que se cure a sí misma durante un breve periodo."
+               "name":"Healing Orb",
+               "description":"<strong>EQUIP</strong> a healing orb. <strong>FIRE</strong> with your crosshairs over a damaged ally to activate a heal-over-time on them. <strong>ALT FIRE</strong> while Sage is damaged to activate a self heal-over-time."
             },
             {
                "id":"SageC",
-               "name":"Orbe barrera",
-               "description":"<strong>EQUIPA</strong> un orbe de barrera. <strong>DISPARA</strong> para colocar una pared sólida. Alterna el <strong>MODO DE DISPARO</strong> para rotarla antes de crearla. "
+               "name":"Barrier Orb",
+               "description":"<strong>EQUIP</strong> a barrier orb. <strong>FIRE</strong> places a solid wall. <strong>ALT FIRE</strong> rotates the target."
             },
             {
                "id":"SageQ",
-               "name":"Orbe de ralentización",
-               "description":"<strong>EQUIPA</strong> un orbe de ralentización. <strong>DISPARA</strong> para lanzar hacia delante un orbe de ralentización que explota al aterrizar, lo que genera un campo persistente que ralentiza a los jugadores que se encuentren en su interior. "
+               "name":"Slow Orb",
+               "description":"<strong>EQUIP</strong> a slowing orb. <strong>FIRE</strong> to throw a slowing orb forward that detonates upon landing, creating a lingering field that slows players caught inside of it. "
             },
             {
                "id":"SageX",
-               "name":"Resurrección",
-               "description":"<strong>EQUIPA</strong> una habilidad de resurrección. <strong>DISPARA</strong> con la mira sobre un aliado muerto para empezar a resucitarlo. Tras un breve periodo de canalización, el aliado resucitará con toda la vida."
+               "name":"Resurrection",
+               "description":"<strong>EQUIP</strong> a resurrection ability. <strong>FIRE</strong> with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health."
             }
          ]         
       }
