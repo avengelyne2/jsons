@@ -36,25 +36,25 @@
 			"key":"7",
 			"name":"Omen"
 		},
-		"Omen":{
-			"id":"Omen",
+		"Brimstone":{
+			"id":"Brimstone",
 			"key":"8",
-			"name":"Omen"
+			"name":"Brimstone"
 		},
-		"Omen":{
-			"id":"Omen",
+		"Viper":{
+			"id":"Viper",
 			"key":"9",
-			"name":"Omen"
+			"name":"Viper"
 		},
-		"Omen":{
-			"id":"Omen",
+		"Breach":{
+			"id":"Breach",
 			"key":"10",
-			"name":"Omen"
+			"name":"Breach"
 		},
-		"Omen":{
-			"id":"Omen",
+		"Sova":{
+			"id":"Sova",
 			"key":"11",
-			"name":"Omen"
+			"name":"Sova"
 		}
 	}
 }
