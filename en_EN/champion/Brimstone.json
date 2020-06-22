@@ -5,28 +5,28 @@
          "id":"Brimstone",
          "key":"8",
          "name":"Brimstone",
-         "rol":"Controlador",
-         "lore":"De origen estadounidense, Brimstone cuenta con un arsenal de órbita que garantiza que su equipo siempre vaya por delante. Su capacidad para aportar herramientas de utilidad de una forma segura y precisa lo convierte en un comandante de primera línea sin igual.",
+         "rol":"Controller",
+         "lore":"Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisesly and safely make him the unmatched boots-on-the-ground commander.",
          "spells":[
             {
                "id":"BrimstoneE",
-               "name":"Cortina de humo",
-               "description":"<strong>EQUIPA</strong> un mapa táctico. <strong>DISPARA</strong> para fijar ubicaciones en las que aparecerán nubes de humo de Brimstone. <strong>ALTERNA EL MODO DE DISPARO</strong> para confirmar. Esto liberará nubes de humo de larga duración que bloquearán la visión en la zona seleccionada."
+               "name":"Sky Smoke",
+               "description":"<strong>EQUIP</strong> a tactical map. <strong>FIRE</strong> to set locations where Brimstone's smoke clouds will land. <strong>ALTERNATE FIRE</strong> to confirm, launching long-lasting smoke clouds that block vision in the selected area."
             },
             {
                "id":"BrimstoneC",
-               "name":"Baliza estimulante",
-               "description":"<strong>EQUIPA</strong> una baliza estimulante. <strong>DISPARA</strong> para lanzar la baliza estimulante frente a Brimstone. Al aterrizar, la baliza estimulante creará un campo que otorgará disparo Disparo rápido a los jugadores. "
+               "name":"Stim Beacon",
+               "description":"<strong>EQUIP</strong> a stim beacon. <strong>FIRE</strong> to toss the stim beacon in front of Brimstone. Upon landing, the stim beacon will create a field that grants players RapidFire. "
             },
             {
                "id":"BrimstoneQ",
-               "name":"Incendiario",
-               "description":"<strong>EQUIPA</strong> un lanzagranadas incendiarias. <strong>DISPARA</strong> una granada que detona cuando se detiene en el suelo, lo que genera una zona de fuego persistente que daña a los jugadores que estén en su interior. "
+               "name":"Incendiary",
+               "description":"<strong>EQUIP</strong> an incendiary grenade launcher. <strong>FIRE</strong> to launch a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players withing the zone. "
             },
             {
                "id":"BrimstoneX",
-               "name":"Golpe orbital",
-               "description":"<strong>EQUIPA</strong> un mapa táctico. <strong>DISPARA</strong> para lanzar un golpe orbital en la ubicación objetivo con un láser persistente, que provocará un gran daño prolongado a los jugadores que se encuentren en la zona seleccionada."
+               "name":"Orbital Strike",
+               "description":"<strong>EQUIP</strong> a tactical map. <strong>FIRE</strong> to launch a lingering orbital strike laser at the selected location, dealing high damage-over-time to players caught in the selected area."
             }
          ]         
       }
