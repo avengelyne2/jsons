@@ -10,12 +10,12 @@
          "spells":[
             {
                "id":"OmenE",
-               "name":"Velo tenebroso",
+               "name":"Velo Tenebroso",
                "description":"<strong>EQUIPA</strong> un orbe sombrío y entras en un mundo paralelo para colocarlo y marcar su objetivo. <strong>PULSA</strong> la habilidad para lanzarlo a la ubicación señalada, lo que genera una esfera duradera que bloquea la visión. <strong>MANTÉN<strong> el disparo para alejar el marcador. <strong>MANTÉN</strong> el disparo alternativo para acercar el marcador. <strong>RECARGA</strong> para cambiar al modo de apuntado normal."
             },
             {
                "id":"OmenC",
-               "name":"Aparición tenebrosa",
+               "name":"Aparición Tenebrosa",
                "description":"<strong>EQUIPA</strong> una habilidad para caminar entre las sombras y ve su indicador de alcance. <strong>DISPARA</strong> para iniciar un breve periodo de canalización y después teleportarte a la ubicación señalada. "
             },
             {
@@ -25,7 +25,7 @@
             },
             {
                "id":"OmenX",
-               "name":"Desde las sombras",
+               "name":"Desde Las Sombras",
                "description":"<strong>EQUIPA</strong> un mapa táctico. <strong>DISPARA</strong> para empezar a teleportarte a la zona seleccionada. Mientras se teleporta, Omen aparecerá como una sombra que los enemigos pueden destruir para cancelar su teleportación. <strong>PULSA EQUIPAR</strong> para cancelar la teleportación."
             }
          ]         

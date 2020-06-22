@@ -10,12 +10,12 @@
          "spells":[
             {
                "id":"BrimstoneE",
-               "name":"Cortina de humo",
+               "name":"Cortina De Humo",
                "description":"<strong>EQUIPA</strong> un mapa táctico. <strong>DISPARA</strong> para fijar ubicaciones en las que aparecerán nubes de humo de Brimstone. <strong>ALTERNA EL MODO DE DISPARO</strong> para confirmar. Esto liberará nubes de humo de larga duración que bloquearán la visión en la zona seleccionada."
             },
             {
                "id":"BrimstoneC",
-               "name":"Baliza estimulante",
+               "name":"Baliza Estimulante",
                "description":"<strong>EQUIPA</strong> una baliza estimulante. <strong>DISPARA</strong> para lanzar la baliza estimulante frente a Brimstone. Al aterrizar, la baliza estimulante creará un campo que otorgará disparo Disparo rápido a los jugadores. "
             },
             {
@@ -25,7 +25,7 @@
             },
             {
                "id":"BrimstoneX",
-               "name":"Golpe orbital",
+               "name":"Golpe Orbital",
                "description":"<strong>EQUIPA</strong> un mapa táctico. <strong>DISPARA</strong> para lanzar un golpe orbital en la ubicación objetivo con un láser persistente, que provocará un gran daño prolongado a los jugadores que se encuentren en la zona seleccionada."
             }
          ]         
