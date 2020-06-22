@@ -11,7 +11,7 @@
             {
                "id":"SovaE",
                "name":"Proyectil De Reconocimiento",
-               "description":"<strong>EQUIPA</strong> un proyectil de reconocimiento. Se activa cuando impacte y revela la posición de enemigos en la línea de visión del proyectil. Se puede destruir. <strong>MANTÉN</strong> el disparo para ampliar su alcance. <strong>ALTERNA EL DISPARO</strong> para añadir hasta dos rebotes a la flecha."
+               "description":"<strong>EQUIPA</strong> un proyectil de reconocimiento. <strong>DISPARA</strong> para enviar el proyectil hacia delante. Se activa cuando impacta y revela la posición de enemigos en la línea de visión del proyectil. Se puede destruir. <strong>MANTÉN</strong> el disparo para ampliar su alcance. <strong>ALTERNA EL DISPARO</strong> para añadir hasta dos rebotes a la flecha."
             },
             {
                "id":"SovaC",
