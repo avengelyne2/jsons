@@ -10,7 +10,7 @@
          "spells":[
             {
                "id":"JettE",
-               "name":"Viento de cola",
+               "name":"Viento de Cola",
                "description":"Propulsa a Jett <strong>INSTANTÁNEAMENTE</strong> en la dirección en la que se esté moviendo. Si Jett está quieta, se propulsará hacia delante"
             },
             {
@@ -25,7 +25,7 @@
             },
             {
                "id":"JettX",
-               "name":"Tormenta de cuchillas",
+               "name":"Tormenta de Cuchillas",
                "description":"<strong>EQUIPA</strong> un conjunto de cuchillos volantes de alta precisión que se recargan cuando acaban con un oponente. <strong>DISPARA</strong> para lanzar un único cuchillo a tu objetivo. <strong>ALTERNA EL MODO DE DISPARO</strong> para lanzar todas las dagas restantes a tu objetivo."
             }
          ]         
