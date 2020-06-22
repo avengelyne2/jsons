@@ -10,7 +10,7 @@
          "spells":[
             {
                "id":"SageE",
-               "name":"Orbe De Sanación",
+               "name":"Orbe de Sanación",
                "description":"<strong>EQUIPA</strong> un orbe de sanación. <strong>DISPARA</strong> con la mira sobre un aliado herido para curarla durante un breve periodo. <strong>ALTERNA EL MODO DE DISPARO</strong> cuando Sage esté herida para que se cure a sí misma durante un breve periodo."
             },
             {
@@ -20,7 +20,7 @@
             },
             {
                "id":"SageQ",
-               "name":"Orbe De Ralentización",
+               "name":"Orbe de Ralentización",
                "description":"<strong>EQUIPA</strong> un orbe de ralentización. <strong>DISPARA</strong> para lanzar hacia delante un orbe de ralentización que explota al aterrizar, lo que genera un campo persistente que ralentiza a los jugadores que se encuentren en su interior. "
             },
             {
