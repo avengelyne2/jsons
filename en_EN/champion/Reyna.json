@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Reyna":{
+         "id":"Reyna",
+         "key":"3",
+         "name":"Reyna",
+         "rol":"Duelista",
+         "lore":"Desde el corazón de México, Reyna llega para dominar los combates uno contra uno, y cada asesinato que consigue la hace más fuerte. Su potencial es prácticamente infinito, y la destreza individual es el único factor determinante de su éxito.",
+         "spells":[
+            {
+               "id":"ReynaE",
+               "name":"Despreciar",
+               "description":"Consume <strong>INSTANTÁNEAMENTE</strong> un orbe de alma cercano y se vuelve intangible durante un breve periodo. Si <strong>EMPERATRIZ</strong> está activa, se vuelve también invisible."
+            },
+            {
+               "id":"ReynaC",
+               "name":"Mirada lasciva",
+               "description":"<strong>EQUIPA</strong> un ojo etéreo destructible. <strong>ACTÍVALA</strong> para lanzar el ojo hacia delante una corta distancia. El ojo limitará la visión de todos los enemigos que lo miren. "
+            },
+            {
+               "id":"ReynaQ",
+               "name":"Devorar",
+               "description":"Cosecha de almas: Los enemigos asesinados por reyna dejan orbes de alma que duran 3s. Devorar: Consume al instante un orbe cercano y se cura brevemente. Al obtener más de 100 de vida con esta habilidad, la cantidad adicional decaerá. Si <strong>EMPERATRIZ</strong> está activa, esta habilidad se lanzará automáticamente y no consumirá el orbe. "
+            },
+            {
+               "id":"ReynaX",
+               "name":"Emperatriz",
+               "description":"Entra en un frenesí <strong>INSTANTÁNEO</strong> que aumenta drásticamente la velocidad de disparo, de equipamiento y de recarga. Consigue cargas infinitas de habilidades de Cosecha de almas. Conseguir un asesinato reinicia la duración"
+            }
+         ]         
+      }
+   }
+}

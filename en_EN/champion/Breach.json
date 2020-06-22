@@ -1,0 +1,34 @@
+{
+   "type":"champion",
+   "data":{
+      "Breach":{
+         "id":"Breach",
+         "key":"10",
+         "name":"Breach",
+         "rol":"Iniciador",
+         "lore":"Breach, el sueco biónico, dispara una serie de explosiones cinéticas controladas para abrirse paso por el territorio enemigo. Su capacidad para infligir daño y sembrar el caos garantiza que los combates siempre estén de su parte.",
+         "spells":[
+            {
+               "id":"BreachE",
+               "name":"Falla",
+               "description":"<strong>EQUIPA</strong> una bomba sísmica. <strong>MANTEN PULSADO PARA DISPARAR</strong> para aumentar la distancia. <strong>SUELTA</strong> para liberar un seísmo que aturdirá a todos los jugadores dentro de la zona y en una línea hasta ella. "
+            },
+            {
+               "id":"BreachC",
+               "name":"Réplica",
+               "description":"<strong>EQUIPA</strong> una carga explosiva de fusión. <strong>DISPARA</strong> la carga para liberar una explosión que atraviesa la pared tras un retardo. La explosión inflige mucho daño a cualquier que esté dentro del área afectada. "
+            },
+            {
+               "id":"BreachQ",
+               "name":"Explosión cegadora",
+               "description":"<strong>EQUIPA</strong> una carga explosiva cegadora. <strong>DISPARA</strong> para lanzarla. la carga para liberar una rápida explosión que atraviesa la pared. Cuando detona, la carga ciega a todos los jugadores que la estén mirando. "
+            },
+            {
+               "id":"BreachX",
+               "name":"Fragor imparable",
+               "description":"<strong>EQUIPA</strong> una carga explosiva sísmica. <strong>DISPARA</strong> para liberar un seísmo que se extenderá por una gran zona en forma de cono. El seísmo aturde y lanza por los aires a todos los jugadores que estén en el interior de la zona."
+            }
+         ]         
+      }
+   }
+}
